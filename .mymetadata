@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="HibernateTemplateExtDao"
+  id="myeclipse.1331803570454"
+  context-root="/x120_BaseCollectionDao"
+  j2ee-spec="6.0"
+  archive="HibernateTemplateExtDao.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
